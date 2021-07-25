@@ -2,32 +2,32 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👋;Este+é+o+Lincoln....;Prazer+em+conhecê-lo!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋;This+is+Lincoln....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/lincolnmarques/" target="_blank" title="Perfil no LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.urionlinejudge.com.br/judge/pt/profile/146837" target="_blank" title="Perfil no URI"><img width="22" src="https://i.pinimg.com/originals/2c/66/de/2c66decfe536a1b4dd0f5eccba92cb85.png"> URI Online Judge</a></code>
-  <code><a href="https://www.instagram.com/lincolnmqs/" target="_blank" title="Perfil no Instagram"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/lincolnmarques/" target="_blank" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.urionlinejudge.com.br/judge/pt/profile/146837" target="_blank" title="URI Online Judge Profile"><img width="22" src="https://i.pinimg.com/originals/2c/66/de/2c66decfe536a1b4dd0f5eccba92cb85.png"> URI Online Judge</a></code>
+  <code><a href="https://www.instagram.com/lincolnmqs/" target="_blank" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Olá, sou o Lincoln Marques, Cientista da Computação e Desenvolvedor Full Stack
+  Hi, I'm Lincoln Marques, Computer Scientist and Full Stack Developer
   <br>
   <br>
-  🎓 Eu me formei no Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS)
+  🎓 I graduated from the Federal Institute of Southern Minas Gerais (IFSULDEMINAS)
   <br>
-  💻 No meu TCC eu desenvolvi Micro Frameworks para otimizar o desenvolvimento de softwares
+  💻 In my TCC I developed Micro Frameworks to optimize software development
   <br>
-  📚 Eu gosto de resolver problemas de programação
+  📚 I like to solve programming problems
   <br>
-  📫 Como entrar em contato comigo: <a href="mailto: lincolnmqs@gmail.com">lincolnmqs@gmail.com</a>
+  📫 How to contact me: <a href="mailto: lincolnmqs@gmail.com">lincolnmqs@gmail.com</a>
 </p>
 
 <hr>
-<h2 align="center">🔥 Linguagens, estruturas, ferramentas e habilidades 🔥</h2>
+<h2 align="center">🔥 Languages, Structures, Tools and Skills 🔥</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
@@ -52,7 +52,7 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ Estatísticas ⚡</h2>
+<h2 align="center">⚡ Statistics ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
