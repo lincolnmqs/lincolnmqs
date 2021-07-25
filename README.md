@@ -9,7 +9,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/lincolnmarques/" title="Perfil no LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.urionlinejudge.com.br/judge/pt/profile/146837" title="Perfil no URI"><img width="22" src="http://2.bp.blogspot.com/-NUevUKTYhdc/VLrx4-PbbhI/AAAAAAAABi4/Fjxx1_1q_hU/s1600/URI.png"> URI Online Judge</a></code>
+  <code><a href="https://www.urionlinejudge.com.br/judge/pt/profile/146837" title="Perfil no URI"><img width="22" src="https://i.pinimg.com/originals/2c/66/de/2c66decfe536a1b4dd0f5eccba92cb85.png"> URI Online Judge</a></code>
   <code><a href="https://www.instagram.com/lincolnmqs/" title="Perfil no Instagram"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
