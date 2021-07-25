@@ -27,7 +27,7 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Linguagens e estruturas e ferramentas e habilidades 🔥</h2>
+<h2 align="center">🔥 Linguagens, estruturas, ferramentas e habilidades 🔥</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
