@@ -2,14 +2,14 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👋;Este+é+o+Lincoln+Marques....;Prazer+em+conhecê-lo!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+👋;Este+é+o+Lincoln+Marques..;Prazer+em+conhecê-lo!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/lincolnmarques/" title="Perfil no LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="Perfil no URI"><img width="22" src="https://www.urionlinejudge.com.br/judge/img/5.0/logo-take-care.png"> URI Online Judge</a></code>
+  <code><a href="https://www.urionlinejudge.com.br/judge/pt/profile/146837" title="Perfil no URI"><img width="22" src="https://pulpo-site-3tduojw3tlwg6yqrnax.netdna-ssl.com/wp-content/uploads/2017/01/logo-gmail-urionlinejudge.png"> URI Online Judge</a></code>
   <code><a href="https://www.instagram.com/lincolnmqs/" title="Perfil no Instagram"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
