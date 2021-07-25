@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=github.com/lincolnmqs">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -8,9 +8,9 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/lincolnmarques/" title="Perfil no LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.urionlinejudge.com.br/judge/pt/profile/146837" title="Perfil no URI"><img width="22" src="https://i.pinimg.com/originals/2c/66/de/2c66decfe536a1b4dd0f5eccba92cb85.png"> URI Online Judge</a></code>
-  <code><a href="https://www.instagram.com/lincolnmqs/" title="Perfil no Instagram"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/lincolnmarques/" target="_blank" title="Perfil no LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.urionlinejudge.com.br/judge/pt/profile/146837" target="_blank" title="Perfil no URI"><img width="22" src="https://i.pinimg.com/originals/2c/66/de/2c66decfe536a1b4dd0f5eccba92cb85.png"> URI Online Judge</a></code>
+  <code><a href="https://www.instagram.com/lincolnmqs/" target="_blank" title="Perfil no Instagram"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
