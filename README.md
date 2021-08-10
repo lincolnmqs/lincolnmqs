@@ -17,7 +17,7 @@
   Hi, I'm Lincoln Marques, Computer Scientist and Full Stack Developer
   <br>
   <br>
-  🎓 I graduated from the Federal Institute of Southern Minas Gerais (IFSULDEMINAS)
+  🎓 I graduated in Computer Science from the Federal Institute of Southern Minas Gerais (IFSULDEMINAS)
   <br>
   💻 In my TCC I developed Micro Frameworks to optimize software development
   <br>
