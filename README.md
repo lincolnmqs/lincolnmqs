@@ -10,7 +10,6 @@
   <code>
     <a href="https://www.linkedin.com/in/lincolnmarques/" target="_blank" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.urionlinejudge.com.br/judge/pt/profile/146837" target="_blank" title="URI Online Judge Profile"><img width="22" src="https://i.pinimg.com/originals/2c/66/de/2c66decfe536a1b4dd0f5eccba92cb85.png"> URI Online Judge</a></code>
-  <code><a href="https://www.instagram.com/lincolnmqs/" target="_blank" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
