@@ -9,7 +9,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/lincolnmarques/" target="_blank" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.beecrowd.com.br/judge/pt/profile/146837" target="_blank" title="URI Online Judge Profile"><img width="22" src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png"> beecrowd</a></code>
+  <code><a href="https://www.beecrowd.com.br/judge/pt/profile/146837" target="_blank" title="URI Online Judge Profile"><img width="22" src="https://community.vtex.com/uploads/default/optimized/2X/e/e077f658776612311527fdb613ba8b54e8e5e92c_2_545x500.png"> beecrowd</a></code>
 </h5>
 <br>
 <p align="center">
