@@ -69,7 +69,6 @@ Linguagens & Tecnologias: `React.js`, `JavaScript`, `Python`, `Django`, `MySQL`\
 **Desenvolvedor Full-stack** \
 [**WeClever**](https://weclever.ai/) • Full-time \
 Linguagens & Tecnologias: `Node.js`, `Vue.js`, `TypeScript`, `JavaScript`, `MySQL`\
-
 <br/>
 <br/>
 <br/>
