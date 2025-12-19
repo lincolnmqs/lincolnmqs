@@ -50,7 +50,7 @@
 
 **Experiência de trabalho**
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://tivit.com/wp-content/uploads/2022/04/icon_tivit.svg"/>](https://www.tivit.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5DxghZmsY3iFo_73dm66wmQgaEqaqgvS0kA&s"/>](https://www.tivit.com/)
 
 **Engenheiro de Software** \
 [**TIVIT / Equifax**](https://www.tivit.com/) • Full-time \
@@ -67,7 +67,7 @@ Linguagens & Tecnologias: `React.js`, `JavaScript`, `Python`, `Django`, `MySQL`\
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.glassdoor.com/sqll/4011296/weclever-squareLogo-1656958620832.png"/>](https://weclever.ai/)
 
 **Desenvolvedor Full-stack** \
-[**Nubank**](https://weclever.ai/) • Full-time \
+[**WeClever**](https://weclever.ai/) • Full-time \
 Linguagens & Tecnologias: `Node.js`, `Vue.js`, `TypeScript`, `JavaScript`, `MySQL`\
 
 <br/>
