@@ -1,49 +1,84 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=github.com/lincolnmqs">
+![](https://komarev.com/ghpvc/?username=lincolnmqs&color=006bed)
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋;This+is+Lincoln....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+## Sobre mim
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/lincolnmarques/" target="_blank" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.beecrowd.com.br/judge/pt/profile/146837" target="_blank" title="URI Online Judge Profile"><img width="22" src="https://community.vtex.com/uploads/default/optimized/2X/e/e077f658776612311527fdb613ba8b54e8e5e92c_2_545x500.png"> beecrowd</a></code>
-</h5>
-<br>
-<p align="center">
-  Hi, I'm Lincoln Marques, Computer Scientist and Full Stack Developer
-  <br>
-  <br>
-  🎓 I graduated in Computer Science from the Instituto Federal do Sul de Minas Gerais
-  <br>
-  💻 In my course conclusion work developed micro frameworks to optimize software development
-  <br>
-  📚 I like to solve programming problems
-  <br>
-  📫 How to contact me: <a href="mailto: lincolnmqs@gmail.com">lincolnmqs@gmail.com</a>
-</p>
+- 🤔 Apaixonado por tecnologia e inovação..
+- 🎓 Pós-graduando em Engenharia de Software e graduado em Ciência da Computação.
+- 💼 Trabalho como Engenheiro de Software na TIVIT.
+- 🌱 Trabalhando com Node.js, React.js, Next.js, Angular, Python.
 
-<hr>
+## Minhas Skills
 
-<h2 align="center">⚡ Statistics ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/lincolnmqs?tab=repositories">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=lincolnmqs&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/lincolnmqs?tab=repositories" target="_blank">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=lincolnmqs&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/lincolnmqs?tab=repositories">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnmqs&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=lincolnmqs&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+**Aplicações e dados**
+
+![Node.js](https://img.shields.io/badge/-node.js-333333?style=flat&logo=Node.js)
+![Nest.js](https://img.shields.io/badge/-nest.js-333333?style=flat&logo=Nest.js)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=FastAPI)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+<br/>
+
+**Experiência de trabalho**
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://tivit.com/wp-content/uploads/2022/04/icon_tivit.svg"/>](https://www.tivit.com/)
+
+**Engenheiro de Software** \
+[**TIVIT / Equifax**](https://www.tivit.com/) • Full-time \
+Linguagens & Tecnologias: `Node.js`, `Next.js`, `React.js`, `Angular`, `TypeScript`, `Python`, `FastAPI`, `BigQuery`, `PostgreSQL`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://www.instant.com.br/wp-content/uploads/img_social-1.jpg"/>](https://instant.com.br/)
+
+**Desenvolvedor Full-stack (Foco em Front-end)** \
+[**Rocketseat**](https://instant.com.br/) • Full-time \
+Linguagens & Tecnologias: `React.js`, `JavaScript`, `Python`, `Django`, `MySQL`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.glassdoor.com/sqll/4011296/weclever-squareLogo-1656958620832.png"/>](https://weclever.ai/)
+
+**Desenvolvedor Full-stack** \
+[**Nubank**](https://weclever.ai/) • Full-time \
+Linguagens & Tecnologias: `Node.js`, `Vue.js`, `TypeScript`, `JavaScript`, `MySQL`\
+
+<br/>
+
+<a href="https://github.com/lincolnmqs" title="Perfil do Lincoln">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lincolnmqs&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lincolnmarques/)](https://www.linkedin.com/in/lincolnmarques/)
+[![Gmail Badge](https://img.shields.io/badge/-lincolnmqs@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lincolnmqs@gmail.com)](mailto:lincolnmqs@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/lincolnmqs?label=follow&style=social)](https://github.com/lincolnmqs)
