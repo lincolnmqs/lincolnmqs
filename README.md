@@ -79,6 +79,6 @@ Linguagens & Tecnologias: `Node.js`, `Vue.js`, `TypeScript`, `JavaScript`, `MySQ
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lincolnmarques/)](https://www.linkedin.com/in/lincolnmarques/)
-[![Gmail Badge](https://img.shields.io/badge/-lincolnmqs@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lincolnmqs@gmail.com)](mailto:lincolnmqs@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lincolnmarques/)](https://www.linkedin.com/in/lincolnmarques/)
+[![Gmail Badge](https://img.shields.io/badge/-email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lincolnmqs@gmail.com)](mailto:lincolnmqs@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/lincolnmqs?label=follow&style=social)](https://github.com/lincolnmqs)
