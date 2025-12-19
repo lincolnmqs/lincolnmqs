@@ -12,7 +12,6 @@
 **Back-end**
 
 ![Node.js](https://img.shields.io/badge/-node.js-333333?style=flat&logo=Node.js)
-![Nest.js](https://img.shields.io/badge/-nest.js-333333?style=flat&logo=Nest.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=FastAPI)
