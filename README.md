@@ -2,10 +2,10 @@
 
 ## Sobre mim
 
-- 🤔 Apaixonado por tecnologia e inovação..
+- 🤔 Apaixonado por tecnologia e inovação.
 - 🎓 Pós-graduando em Engenharia de Software e graduado em Ciência da Computação.
 - 💼 Trabalho como Engenheiro de Software na TIVIT.
-- 🌱 Trabalhando com Node.js, React.js, Next.js, Angular, Python.
+- 🌱 Trabalhando com Node.js, Nest.js, React.js, Next.js, Angular, Python.
 
 ## Minhas Skills
 
@@ -73,10 +73,6 @@ Linguagens & Tecnologias: `Node.js`, `Vue.js`, `TypeScript`, `JavaScript`, `MySQ
 <br/>
 <br/>
 <br/>
-
-<a href="https://github.com/lincolnmqs" title="Perfil do Lincoln">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lincolnmqs&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
