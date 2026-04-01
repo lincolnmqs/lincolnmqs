@@ -70,7 +70,7 @@ Linguagens & Tecnologias: `React.js`, `JavaScript`, `Python`, `Django`, `MySQL`\
 **Desenvolvedor Full-stack** \
 [**WeClever**](https://weclever.ai/)\
 Linguagens & Tecnologias: `Node.js`, `Vue.js`, `TypeScript`, `JavaScript`, `MySQL`\
-
+<br/>
 <br/>
 
 **Projetos Pessoais**
@@ -81,10 +81,10 @@ Linguagens & Tecnologias: `Node.js`, `Vue.js`, `TypeScript`, `JavaScript`, `MySQ
 [**Site**](https://projectsync.com.br/)\
 Linguagens & Tecnologias: `Nest.js`, `React.js`, `PostgreSQL`, `TypeScript`, `Microservice`, `Micro-frontend`, `Module-Federation`, `Docker`\
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://projectsync.com.br/assets/projectsync-navicon.Dd0OCOCk.png"/>](https://projectsync.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn-icons-png.flaticon.com/512/7689/7689860.png"/>](https://projectsync.com.br/)
 
 **Meetings** \
-[**Site**](https://meetings.projectsync.com.br/) • Full-time \
+[**Site**](https://meetings.projectsync.com.br/)\
 Linguagens & Tecnologias: `Nest.js`, `React.js`, `PostgreSQL`, `TypeScript`, `Microservice`, `Micro-frontend`, `Module-Federation`, `Socket.io`, `WebRTC`, `Docker`\
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://connectclin.com/favicon.png"/>](https://connectclin.com/)
