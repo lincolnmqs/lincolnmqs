@@ -49,56 +49,86 @@
 
 <br/>
 
-**Experiência de trabalho**
+## Experiência de trabalho
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5DxghZmsY3iFo_73dm66wmQgaEqaqgvS0kA&s"/>](https://www.tivit.com/)
+<a href="https://www.tivit.com/" target="_blank" rel="noopener noreferrer">
+<img align="left" height="94px" width="94px"
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5DxghZmsY3iFo_73dm66wmQgaEqaqgvS0kA&s"/>
+</a>
 
-**Engenheiro de Software** \
-[**TIVIT / Equifax**](https://www.tivit.com/) • Full-time \
-Linguagens & Tecnologias: `Node.js`, `Next.js`, `React.js`, `Angular`, `TypeScript`, `Python`, `FastAPI`, `BigQuery`, `PostgreSQL`\
+**Engenheiro de Software**  
+<a href="https://www.tivit.com/" target="_blank" rel="noopener noreferrer"><strong>TIVIT / Equifax</strong></a> • Full-time  
+Linguagens & Tecnologias: `Node.js`, `Next.js`, `React.js`, `Angular`, `TypeScript`, `Python`, `FastAPI`, `BigQuery`, `PostgreSQL`
+
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/v2/C4D0BAQHdWZTV5skOXg/company-logo_200_200/company-logo_200_200/0/1631315697812?e=2147483647&v=beta&t=78D9Y5pYep-biMsT2PtQfJx9y7kjje7UXT_w5vqki3s"/>](https://instant.com.br/)
+<a href="https://instant.com.br/" target="_blank" rel="noopener noreferrer">
+<img align="left" height="94px" width="94px"
+src="https://media.licdn.com/dms/image/v2/C4D0BAQHdWZTV5skOXg/company-logo_200_200/company-logo_200_200/0/1631315697812"/>
+</a>
 
-**Desenvolvedor Full-stack (Foco em Front-end)** \
-[**Instant Solutions**](https://instant.com.br/) • Full-time \
-Linguagens & Tecnologias: `React.js`, `JavaScript`, `Python`, `Django`, `MySQL`\
+**Desenvolvedor Full-stack (Foco em Front-end)**  
+<a href="https://instant.com.br/" target="_blank" rel="noopener noreferrer"><strong>Instant Solutions</strong></a> • Full-time  
+Linguagens & Tecnologias: `React.js`, `JavaScript`, `Python`, `Django`, `MySQL`
+
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.glassdoor.com/sqll/4011296/weclever-squareLogo-1656958620832.png"/>](https://weclever.ai/)
+<a href="https://weclever.ai/" target="_blank" rel="noopener noreferrer">
+<img align="left" height="94px" width="94px"
+src="https://media.glassdoor.com/sqll/4011296/weclever-squareLogo-1656958620832.png"/>
+</a>
 
-**Desenvolvedor Full-stack** \
-[**WeClever**](https://weclever.ai/)\
-Linguagens & Tecnologias: `Node.js`, `Vue.js`, `TypeScript`, `JavaScript`, `MySQL`\
+**Desenvolvedor Full-stack**  
+<a href="https://weclever.ai/" target="_blank" rel="noopener noreferrer"><strong>WeClever</strong></a>  
+Linguagens & Tecnologias: `Node.js`, `Vue.js`, `TypeScript`, `JavaScript`, `MySQL`
+
+<br/><br/>
+
+## Projetos Pessoais
+
+<a href="https://projectsync.com.br/" target="_blank" rel="noopener noreferrer">
+<img align="left" height="94px" width="94px"
+src="https://projectsync.com.br/assets/projectsync-navicon.Dd0OCOCk.png"/>
+</a>
+
+**ProjectSync**  
+<a href="https://projectsync.com.br/" target="_blank" rel="noopener noreferrer"><strong>Site</strong></a>  
+Linguagens & Tecnologias: `Nest.js`, `React.js`, `PostgreSQL`, `TypeScript`, `Microservice`, `Micro-frontend`, `Module-Federation`, `Docker`
+
 <br/>
+
+<a href="https://meetings.projectsync.com.br/" target="_blank" rel="noopener noreferrer">
+<img align="left" height="94px" width="94px"
+src="https://cdn-icons-png.flaticon.com/512/7689/7689860.png"/>
+</a>
+
+**Meetings**  
+<a href="https://meetings.projectsync.com.br/" target="_blank" rel="noopener noreferrer"><strong>Site</strong></a>  
+Linguagens & Tecnologias: `Nest.js`, `React.js`, `PostgreSQL`, `TypeScript`, `Microservice`, `Micro-frontend`, `Module-Federation`, `Socket.io`, `WebRTC`, `Docker`
+
 <br/>
 
-**Projetos Pessoais**
+<a href="https://connectclin.com/" target="_blank" rel="noopener noreferrer">
+<img align="left" height="94px" width="94px"
+src="https://connectclin.com/favicon.png"/>
+</a>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://projectsync.com.br/assets/projectsync-navicon.Dd0OCOCk.png"/>](https://projectsync.com.br/)
+**Connectclin**  
+<a href="https://connectclin.com/" target="_blank" rel="noopener noreferrer"><strong>Site</strong></a>  
+Linguagens & Tecnologias: `Nest.js`, `React.js`, `PostgreSQL`, `TypeScript`, `Microservice`, `Micro-frontend`, `Module-Federation`, `Docker`
 
-**ProjectSync** \
-[**Site**](https://projectsync.com.br/)\
-Linguagens & Tecnologias: `Nest.js`, `React.js`, `PostgreSQL`, `TypeScript`, `Microservice`, `Micro-frontend`, `Module-Federation`, `Docker`\
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn-icons-png.flaticon.com/512/7689/7689860.png"/>](https://projectsync.com.br/)
-
-**Meetings** \
-[**Site**](https://meetings.projectsync.com.br/)\
-Linguagens & Tecnologias: `Nest.js`, `React.js`, `PostgreSQL`, `TypeScript`, `Microservice`, `Micro-frontend`, `Module-Federation`, `Socket.io`, `WebRTC`, `Docker`\
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://connectclin.com/favicon.png"/>](https://connectclin.com/)
-
-**Connectclin** \
-[**Site**](https://connectclin.com/)\
-Linguagens & Tecnologias: `Nest.js`, `React.js`, `PostgreSQL`, `TypeScript`, `Microservice`, `Micro-frontend`, `Module-Federation`, `Docker`\
-<br/>
-<br/>
-<br/>
-<br/>
+<br/><br/><br/><br/>
 
 ## Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/lincolnmarques/)](https://www.linkedin.com/in/lincolnmarques/)
-[![Gmail Badge](https://img.shields.io/badge/-lincolnmqs@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lincolnmqs@gmail.com)](mailto:lincolnmqs@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/lincolnmqs?label=follow&style=social)](https://github.com/lincolnmqs)
+<a href="https://www.linkedin.com/in/lincolnmarques/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white"/>
+</a>
+
+<a href="mailto:lincolnmqs@gmail.com">
+<img src="https://img.shields.io/badge/-lincolnmqs@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/lincolnmqs" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/github/followers/lincolnmqs?label=follow&style=social"/>
+</a>
