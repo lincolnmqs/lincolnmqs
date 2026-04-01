@@ -68,8 +68,31 @@ Linguagens & Tecnologias: `React.js`, `JavaScript`, `Python`, `Django`, `MySQL`\
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.glassdoor.com/sqll/4011296/weclever-squareLogo-1656958620832.png"/>](https://weclever.ai/)
 
 **Desenvolvedor Full-stack** \
-[**WeClever**](https://weclever.ai/) • Full-time \
+[**WeClever**](https://weclever.ai/)\
 Linguagens & Tecnologias: `Node.js`, `Vue.js`, `TypeScript`, `JavaScript`, `MySQL`\
+
+<br/>
+
+**Projetos Pessoais**
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://projectsync.com.br/assets/projectsync-navicon.Dd0OCOCk.png"/>](https://projectsync.com.br/)
+
+**ProjectSync** \
+[**Site**](https://projectsync.com.br/)\
+Linguagens & Tecnologias: `Nest.js`, `React.js`, `PostgreSQL`, `TypeScript`, `Microservice`, `Micro-frontend`, `Module-Federation`, `Docker`\
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://projectsync.com.br/assets/projectsync-navicon.Dd0OCOCk.png"/>](https://projectsync.com.br/)
+
+**Meetings** \
+[**Site**](https://meetings.projectsync.com.br/) • Full-time \
+Linguagens & Tecnologias: `Nest.js`, `React.js`, `PostgreSQL`, `TypeScript`, `Microservice`, `Micro-frontend`, `Module-Federation`, `Socket.io`, `WebRTC`, `Docker`\
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://connectclin.com/favicon.png"/>](https://connectclin.com/)
+
+**Connectclin** \
+[**Site**](https://connectclin.com/)\
+Linguagens & Tecnologias: `Nest.js`, `React.js`, `PostgreSQL`, `TypeScript`, `Microservice`, `Micro-frontend`, `Module-Federation`, `Docker`\
+<br/>
 <br/>
 <br/>
 <br/>
