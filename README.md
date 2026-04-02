@@ -64,7 +64,7 @@ Linguagens & Tecnologias: `Node.js`, `Next.js`, `React.js`, `Angular`, `TypeScri
 
 <a href="https://instant.com.br/" target="_blank" rel="noopener noreferrer">
 <img align="left" height="94px" width="94px"
-src="https://media.licdn.com/dms/image/v2/C4D0BAQHdWZTV5skOXg/company-logo_200_200/company-logo_200_200/0/1631315697812"/>
+src="https://media.licdn.com/dms/image/v2/C4D0BAQHdWZTV5skOXg/company-logo_200_200/company-logo_200_200/0/1631315697812?e=2147483647&v=beta&t=78D9Y5pYep-biMsT2PtQfJx9y7kjje7UXT_w5vqki3s"/>
 </a>
 
 **Desenvolvedor Full-stack (Foco em Front-end)**  
