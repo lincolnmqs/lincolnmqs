@@ -1,22 +1,22 @@
 ![](https://komarev.com/ghpvc/?username=lincolnmqs&color=006bed)
 
-# 👋 Olá, eu sou Lincoln Marques
+# 👋 Hi, I'm Lincoln Marques
 
-💻 **Software Engineer | Fullstack | Systems & Architecture Enthusiast**
-
----
-
-## 🚀 Sobre mim
-
-- 🤔 Apaixonado por tecnologia, arquitetura de sistemas e inovação.
-- 🎓 Pós-graduando em **Engenharia de Software** e graduado em **Ciência da Computação**.
-- 💼 Engenheiro de Software na **TIVIT / Equifax**.
-- ⚙️ Experiência com aplicações **Fullstack**, **Microservices**, **Micro-frontends** e sistemas escaláveis.
-- 🌱 Atualmente trabalhando com **Node.js**, **React**, **Next.js**, **Angular** e **Python**.
+💻 **Software Engineer | Fullstack Developer | Systems & Architecture Enthusiast**
 
 ---
 
-## 🧠 Linguagens
+## 🚀 About Me
+
+- 🤔 Passionate about technology, system architecture, and innovation.
+- 🎓 Postgraduate student in **Software Engineering** and Bachelor's degree in **Computer Science**.
+- 💼 Currently working as a **Software Engineer at TIVIT / Equifax**.
+- ⚙️ Experience building **Fullstack applications**, **Microservices**, and **Micro-frontend architectures**.
+- 🌱 Currently working with **Node.js**, **React**, **Next.js**, **Angular**, and **Python**.
+
+---
+
+## 🧠 Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -48,7 +48,7 @@
 
 ---
 
-## 🗄️ Banco de Dados
+## 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -57,7 +57,7 @@
 
 ---
 
-## 🧪 Testes
+## 🧪 Testing
 
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=Cypress)
@@ -65,7 +65,7 @@
 
 ---
 
-## ☁️ DevOps & Infra
+## ☁️ DevOps & Infrastructure
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
@@ -75,33 +75,33 @@
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Professional Experience
 
 ### 🏢 TIVIT / Equifax — Software Engineer
 **Stack:** `Node.js` `Next.js` `React` `Angular` `TypeScript` `Python` `FastAPI` `BigQuery` `PostgreSQL`
 
-Desenvolvimento e evolução de aplicações corporativas em larga escala, atuando em arquitetura fullstack e integração de sistemas.
+Development and evolution of large-scale enterprise applications, working across fullstack architecture and system integrations.
 
 ---
 
 ### 🏢 Instant Solutions — Fullstack Developer (Front-end Focus)
 **Stack:** `React` `JavaScript` `Python` `Django` `MySQL`
 
-Construção de interfaces modernas e APIs integradas para aplicações empresariais.
+Built modern interfaces and integrated APIs for enterprise applications.
 
 ---
 
 ### 🏢 WeClever — Fullstack Developer
 **Stack:** `Node.js` `Vue.js` `TypeScript` `MySQL`
 
-Desenvolvimento de aplicações web completas com foco em performance e experiência do usuário.
+Developed full web applications focusing on performance and user experience.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Highlight Projects
 
 ### 🔥 ProjectSync
-Sistema de gestão de projetos baseado em arquitetura moderna.
+Project management platform built with modern scalable architecture.
 
 **Stack**
 `NestJS` `React` `PostgreSQL` `TypeScript`
@@ -113,7 +113,7 @@ Sistema de gestão de projetos baseado em arquitetura moderna.
 ---
 
 ### 🎥 Meetings
-Plataforma de videoconferência em tempo real.
+Real-time video conferencing platform.
 
 **Stack**
 `WebRTC` `Socket.io`
@@ -125,7 +125,7 @@ Plataforma de videoconferência em tempo real.
 ---
 
 ### 🏥 ConnectClin
-Plataforma web para gestão clínica.
+Web platform for clinical management.
 
 **Stack**
 `NestJS` `React` `PostgreSQL`
@@ -135,7 +135,7 @@ Plataforma web para gestão clínica.
 
 ---
 
-## 🌎 Onde me encontrar
+## 🌎 Connect with me
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lincolnmarques/)
 [![Email](https://img.shields.io/badge/-lincolnmqs@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:lincolnmqs@gmail.com)
